@@ -13023,7 +13023,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 8.222222
+  orthographic size: 8.462963
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -22007,7 +22007,7 @@ MonoBehaviour:
   level: 0
   kill: 0
   exp: 0
-  nextExp: 04000000060000006400000064000000640000006400000064000000640000006400000064000000
+  nextExp: 01000000010000006400000064000000640000006400000064000000640000006400000064000000
   pool: {fileID: 186112417}
   player: {fileID: 1605723921}
   uiLevelUp: {fileID: 1159792387}

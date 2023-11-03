@@ -137,6 +137,8 @@ public class GameManager : MonoBehaviour
         isLive= true;
         Time.timeScale = 1;
         uiJoy.localScale = Vector3.one;
+
+        GetExp(0);
     }
 
     public void BossSpawn()
